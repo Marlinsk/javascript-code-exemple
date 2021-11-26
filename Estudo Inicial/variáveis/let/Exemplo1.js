@@ -1,8 +1,8 @@
 let variavel1 = 'Primeira variável'; 
-console.log(variavel1);  
+console.log(variavel1); // Imprimindo a variável no console 
 
 
-variavel1 = 'Primeira variável atribuída';  
+variavel1 = 'Primeira variável atribuída'; // Retribuindo um outro valor à variável. 
 console.log(variavel1);  
 
 
@@ -15,11 +15,11 @@ console.log(variavel2);
 
 
 variavel1 = 1 + 2; 
-console.log(variavel1);
+console.log(variavel1); // Imprimindo o resultado
 
 
 variavel2 = 35;
-let aux = (variavel1 + variavel2);
+let aux = (variavel1 + variavel2); // Soma
 console.log(aux);
 
 
@@ -29,10 +29,5 @@ console.log(aux);
 
 variavel1 = 14
 variavel2 = 67.9
-aux = (variavel1 + variavel2);
+aux = (variavel1 + variavel2); // Somando um valor 'int' com 'float'
 console.log(aux)
-
-
-variavel3 = ' ' + 'Alguma coisa'; // variável global. 
-aux = (variavel1 + variavel2 + variavel3);
-console.log(aux);

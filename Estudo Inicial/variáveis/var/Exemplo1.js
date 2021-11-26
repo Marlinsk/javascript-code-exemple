@@ -1,8 +1,9 @@
 var variavel1 = 'Primeira variável'; 
-console.log(variavel1);  
+console.log(variavel1); // Imprimindo a variável no console  
 
 
-variavel1 = 'Primeira variável atribuída'; // Na variável do tipo 'let', a forma de subscrever o valor é dessa forma, o 'var' quando está em um escopo global funciona assim também. 
+// Na variável do tipo 'let', a forma de subscrever o valor é dessa forma, o 'var' quando está em um escopo global funciona assim também.
+variavel1 = 'Primeira variável atribuída'; // Retribuindo um outro valor à variável.  
 console.log(variavel1);  
 
 
@@ -15,11 +16,11 @@ console.log(variavel2);
 
 
 var variavel1 = 1 + 2; 
-console.log(variavel1);
+console.log(variavel1); // Imprimindo o resultado
 
 
 var variavel2 = 35;
-var aux = (variavel1 + variavel2);
+var aux = (variavel1 + variavel2); // Soma
 console.log(aux);
 
 
@@ -29,10 +30,5 @@ console.log(aux);
 
 var variavel1 = 14
 var variavel2 = 67.9
-var aux = (variavel1 + variavel2);
-console.log(aux)
-
-
-var variavel3 = ' ' + 'Alguma coisa';
-var aux = (variavel1 + variavel2 + variavel3);
+var aux = (variavel1 + variavel2); // Somando um valor 'int' com 'float'
 console.log(aux);
