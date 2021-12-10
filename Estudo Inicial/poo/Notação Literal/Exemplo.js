@@ -22,7 +22,7 @@ console.log(obj3);
 const obj4 = {[nomeAtributo]: valorAtributo}
 console.log(obj4);
 
-// Exemplo de criação de função na nova versão do javascript lançada em 2015
+// Exemplo de criação de função na nova versão do (ECMAScript 2015)
 const obj5 = {
     funcao1: function() {
         // ...
