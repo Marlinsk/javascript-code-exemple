@@ -8,9 +8,10 @@ Este projeto serve como um recurso de estudo prático da linguagem Javascript, p
 **Aviso importante:** O programador que quiser contribuir com o projeto, fazendo um pull request adicionando novos exemplos de código para estudo prático ou melhorar a lógica, exigimos que faça uma mini-documentação no neste pull request descrevendo a melhoria feita no código, e o que foi adiconado de exemplo novo. 
 
 ## Índice do repositório
-- [Variáveis](https://github.com/Marlinsk/javascript-code-exemple/tree/master/Estudo%20Inicial/vari%C3%A1veis)
-- [Tipos de dados](https://github.com/Marlinsk/javascript-code-exemple/tree/master/Estudo%20Inicial/tipos%20de%20dados)
-- [Operadores](https://github.com/Marlinsk/javascript-code-exemple/tree/master/Estudo%20Inicial/operadores)
-- [Estruturas de controle](https://github.com/Marlinsk/javascript-code-exemple/tree/master/Estudo%20Inicial/estruturas%20de%20controle)
-- [Funções](https://github.com/Marlinsk/javascript-code-exemple/tree/master/Estudo%20Inicial/fun%C3%A7%C3%B5es)
-- [Programação Orientada à Objetos](https://github.com/Marlinsk/javascript-code-exemple/tree/master/Estudo%20Inicial/poo)
+- [Estudo Inicial](https://github.com/Marlinsk/javascript-code-exemple/tree/master/Estudo%20Inicial)
+  - [Variáveis](https://github.com/Marlinsk/javascript-code-exemple/tree/master/Estudo%20Inicial/vari%C3%A1veis)
+  - [Tipos de dados](https://github.com/Marlinsk/javascript-code-exemple/tree/master/Estudo%20Inicial/tipos%20de%20dados)
+  - [Operadores](https://github.com/Marlinsk/javascript-code-exemple/tree/master/Estudo%20Inicial/operadores)
+  - [Estruturas de controle](https://github.com/Marlinsk/javascript-code-exemple/tree/master/Estudo%20Inicial/estruturas%20de%20controle)
+  - [Funções](https://github.com/Marlinsk/javascript-code-exemple/tree/master/Estudo%20Inicial/fun%C3%A7%C3%B5es)
+  - [Programação Orientada à Objetos](https://github.com/Marlinsk/javascript-code-exemple/tree/master/Estudo%20Inicial/poo)
