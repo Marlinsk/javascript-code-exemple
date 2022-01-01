@@ -9,9 +9,9 @@ Este projeto serve como um recurso de estudo prático da linguagem Javascript, p
 
 ## Índice do repositório
 Os exemplos de códigos Javascript estão organizados e distribuídos por pastas com o nome referente aos temas da linguagem. 
-- [Variáveis](https://github.com/Marlinsk/javascript-code-exemple/tree/master/Estudo%20Inicial/vari%C3%A1veis)
-- [Tipos de dados](https://github.com/Marlinsk/javascript-code-exemple/tree/master/Estudo%20Inicial/tipos%20de%20dados)
-- [Operadores](https://github.com/Marlinsk/javascript-code-exemple/tree/master/Estudo%20Inicial/operadores)
-- [Estruturas de controle](https://github.com/Marlinsk/javascript-code-exemple/tree/master/Estudo%20Inicial/estruturas%20de%20controle)
-- [Funções](https://github.com/Marlinsk/javascript-code-exemple/tree/master/Estudo%20Inicial/fun%C3%A7%C3%B5es)
-- [Programação Orientada à Objetos](https://github.com/Marlinsk/javascript-code-exemple/tree/master/Estudo%20Inicial/poo)
+- [Variáveis](https://github.com/Marlinsk/javascript-code-exemple/tree/master/Javascript/vari%C3%A1veis)
+- [Tipos de dados](https://github.com/Marlinsk/javascript-code-exemple/tree/master/Javascript/tipos%20de%20dados)
+- [Operadores](https://github.com/Marlinsk/javascript-code-exemple/tree/master/Javascript/operadores)
+- [Estruturas de controle](https://github.com/Marlinsk/javascript-code-exemple/tree/master/Javascript/estruturas%20de%20controle)
+- [Funções](https://github.com/Marlinsk/javascript-code-exemple/tree/master/Javascript/fun%C3%A7%C3%B5es)
+- [Programação Orientada à Objetos](https://github.com/Marlinsk/javascript-code-exemple/tree/master/Javascript/poo)
