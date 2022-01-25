@@ -25,7 +25,7 @@ var aux = (variavel1 + variavel2); // Soma
 console.log(aux);
 
 
-var aux = ((variavel1 = 4) + (variavel2 = 5)); // Necessário utilizar '()' nesses casos.
+var aux = ((variavel1 = 4) + (variavel2 = 5)); // Obs: Necessário utilizar '()' nesses casos.
 console.log(aux);
 
 

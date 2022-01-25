@@ -16,7 +16,7 @@ const variavel2 = 500;
     console.log('Dentro=',variavel2);
 }
 
-console.log('Fora=', variavel2);
+console.log('Fora=', variavel2); // Imprimindo o calor da variável de fora
 
 function teste(){
     const variavel2 = 'variável local';

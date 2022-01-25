@@ -8,7 +8,7 @@ variavel1 = 'Primeira variável atribuída'; // Retribuindo um outro valor à va
 console.log(variavel1);  
 
 
-let variavel2 = ('Segunda variável atribuindo a ' + variavel1); // Não é 100% necessário usar '()'.    
+let variavel2 = ('Segunda variável atribuindo a ' + variavel1); // Obs: Não é 100% necessário usar '()'.    
 console.log(variavel2); 
 
 
@@ -25,7 +25,7 @@ let aux = (variavel1 + variavel2); // Soma
 console.log(aux);
 
 
-aux = ((variavel1 = 4) + (variavel2 = 5)); // Necessário utilizar '()' nesses casos.
+aux = ((variavel1 = 4) + (variavel2 = 5)); // Obs: Necessário utilizar '()' nesses casos.
 console.log(aux);
 
 
