@@ -1,4 +1,6 @@
-let variavel1 = 'Primeira variável'; 
+// A variável do tipo let possui características semelhantes a do tipo var, mas com exclusividade de bloco, sendo esse não possível acessar o valor do lado de fora caso declarada dentro dele.
+
+let variavel1 = 'Primeira variável'; // Declarando
 console.log(variavel1); // Imprimindo a variável no console 
 
 

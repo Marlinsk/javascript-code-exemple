@@ -1,13 +1,14 @@
-var variavel1 = 'Primeira variável'; 
+// Uma variável de tipo var, tem um escopo global, ou seja pode ser acessada globalmente e também reatribuir valor sem exclusividade de bloco
+
+var variavel1 = 'Primeira variável'; // Declarando 
 console.log(variavel1); // Imprimindo a variável no console  
 
-
-// Na variável do tipo 'let', a forma de subscrever o valor é dessa forma, o 'var' quando está em um escopo global funciona assim também.
+// Obs: Na variável do tipo 'let', a forma de subscrever o valor é dessa forma, o 'var' quando está em um escopo global funciona assim também.
 variavel1 = 'Primeira variável atribuída'; // Retribuindo um outro valor à variável.  
 console.log(variavel1);  
 
 
-var variavel2 = ('Segunda variável atribuindo a ' + variavel1); // Não é 100% necessário usar '()'.    
+var variavel2 = ('Segunda variável atribuindo a ' + variavel1); // Obs: Não é 100% necessário usar '()'.    
 console.log(variavel2); 
 
 

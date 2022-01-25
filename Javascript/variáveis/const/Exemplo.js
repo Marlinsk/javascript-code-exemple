@@ -23,4 +23,4 @@ function teste(){
     console.log('Function=', variavel2);
 }
 
-teste();
+teste(); // Imprimindo a variável no console através de uma function
